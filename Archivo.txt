@@ -1,0 +1,40 @@
+Coche
+0048 FGV
+BMW
+318d
+Gris
+1322067806916
+4
+5
+Motocicleta
+0055 FHS
+KTM
+250RR
+Naranja
+1322067837227
+250.0
+false
+Camion
+1234 ABC
+Man
+Trotter
+Blanco
+1322067837227
+1000.0
+5000.0
+Coche
+CE-1234-A
+Seat
+Toledo
+Negro
+1322067983386
+4
+5
+Coche
+4793 ADF
+Mercedes
+SLS AMG
+Negro
+1322231274050
+2
+2
